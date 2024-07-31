@@ -1,5 +1,10 @@
-# Note
-This container is in VERYYY early development, and as of editing this Readme, has not even been tested with the BeamMP client!
+<p align="center">
+    <img alt="Docker Image Version" src="https://img.shields.io/docker/v/narlyx/beammpd">
+    <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/narlyx/beammpd">
+    <img alt="Docker Image Size" src="https://img.shields.io/docker/image-size/narlyx/beammpd">
+    <a href="https://buymeacoffee.com/narlyx"><img alt="Donate" src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
+</p>
+<hr>
 
 # Reason
 Why would you make a BeamMP server container when there are already many others? The answer is simple, I'm bored in class and I don't like the way other containers handle configuration.
