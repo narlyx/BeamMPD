@@ -16,6 +16,7 @@ services:
       #- BEAMMP_PORT=30814
       #- BEAMMP_NAME=BeamMP Server
       #- BEAMMP_DESCRIPTION=BeamMP Default Description
+      #- BEAMMP_TAGS=Freeroam
       #- BEAMMP_MAP=/levels/gridmap_v2/info.json
       #- BEAMMP_MAX_CARS=1
       #- ENV BEAMMP_MAX_PLAYERS=10
