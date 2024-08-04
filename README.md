@@ -2,6 +2,7 @@
     <img alt="Docker Image Version" src="https://img.shields.io/docker/v/narlyx/beammpd">
     <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/narlyx/beammpd">
     <img alt="Docker Image Size" src="https://img.shields.io/docker/image-size/narlyx/beammpd">
+    <a href="https://hub.docker.com/r/narlyx/beammpd/tags"><img src="https://img.shields.io/badge/ARCH-amd64_arm64-blueviolet" alt="architecture"></a>
     <a href="https://buymeacoffee.com/narlyx"><img alt="Donate" src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
 </p>
 <hr>
