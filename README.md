@@ -6,9 +6,6 @@
 </p>
 <hr>
 
-# Reason
-Why would you make a BeamMP server container when there are already many others? The answer is simple, I'm bored in class and I don't like the way other containers handle configuration.
-
 # Usage
 ## Running
 ### Docker Run
